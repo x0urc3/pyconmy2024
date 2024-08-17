@@ -1,1 +1,2 @@
-Jupyter Notebook slides for "Data Driven: Gearing up Python for High-Speed HDF Adventures" talk I presented at [PyCon My 2024](http://pycon.my)
+# Talks
+1. ["Gearing up Python for High-Speed HDF Adventures", Python Conference Malaysia 2024, 24-25 August 2024, Sunway University](./pyconmy2024)
